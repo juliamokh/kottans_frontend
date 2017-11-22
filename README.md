@@ -8,8 +8,6 @@
 [How to Use Git and GitHub](task_0/task_0_course_1.png)
 
 ## Task 1
-
-### Linux Command Line Basics
 - I already had some experience with command line and linux filesystem, so materials from last course (about networking) was new for me. And, frankly, very interesting.
 - I was quite surprised by TCP/IP stack (and all these things).
 - I will use knowledge about bash commands and the protocol stack.
