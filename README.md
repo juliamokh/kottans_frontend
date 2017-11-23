@@ -17,3 +17,10 @@
 [Configuring Linux Web Servers](task_1/task_1_course_2.png)
 
 [Networking for Web Developers](task_1/task_1_course_3.png)
+
+## Task 2
+- Now I'm a little sleepy for long stories. But I definitely like the dinosaur on the Richard's table. :heart_eyes:
+
+[Version Control with Git](task_2/task_2_course_1.png)
+
+[GitHub & Collaboration](task_2/task_2_course_2.png)
