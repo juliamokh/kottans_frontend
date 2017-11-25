@@ -24,3 +24,8 @@
 [Version Control with Git](task_2/task_2_course_1.png)
 
 [GitHub & Collaboration](task_2/task_2_course_2.png)
+
+## Task 3
+-  I refreshed some basic knowledge about HTML and CSS.
+
+[HTML and CSS Syntax](task_3/task_3_course_1.png)
