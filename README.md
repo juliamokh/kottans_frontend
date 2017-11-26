@@ -29,3 +29,8 @@
 -  I refreshed some basic knowledge about HTML and CSS.
 
 [HTML and CSS Syntax](task_3/task_3_course_1.png)
+
+## Task 4
+-  I've learned some tools and concepts to build responsive sites. And extra materials (games) were great.
+
+[Responsive Web Design Fundamentals](task_4/task_4_course_1.png)
