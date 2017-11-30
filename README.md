@@ -34,3 +34,8 @@
 -  I've learned some tools and concepts to build responsive sites. And extra materials (games) were great.
 
 [Responsive Web Design Fundamentals](task_4/task_4_course_1.png)
+
+## Task 5
+-  I refreshed my knowledge of JS. It was a nice course with great and funny examples for better understanding. :+1:
+
+[Intro to JavaScript](task_5/task_5_course_1.png)
