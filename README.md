@@ -39,3 +39,9 @@
 -  I refreshed my knowledge of JS. It was a nice course with great and funny examples for better understanding. :+1:
 
 [Intro to JavaScript](task_5/task_5_course_1.png)
+
+## Task 6
+
+[Object-Oriented JavaScript](task_6/task_6_course_1.png)
+
+[Frogger Arcade Game](https://github.com/juliamokh/frogger-arcade-game)
