@@ -45,3 +45,7 @@
 [Object-Oriented JavaScript](task_6/task_6_course_1.png)
 
 [Frogger Arcade Game](https://github.com/juliamokh/frogger-arcade-game)
+
+## Task 7
+
+[Offline Web Applications](task_7/task_7_course_1.png)
